@@ -7,6 +7,8 @@
 This repository has all the notes that I made during my interview preparation. It includes notes for
 CS fundamentals, JS ecosystem and major Algorithms and data structures.
 
+```This site is a PWA, so you can also have it as a app on your mobiles```
+
 ### Note on Content & Attribution
 I have made conscious efforts to curate and synthesize these notes into my own words. Certain sections that were previously verbatim or directly derived from external resources have been removed or rewritten.
 
