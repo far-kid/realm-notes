@@ -32,7 +32,7 @@ export default defineConfig({
   },
   title: "Realm Notes",
   description: "A site for me :)",
-  head: [["link", { rel: "icon", type: "image/svg+xml", href: "/love.svg" }]],
+  head: [["link", { rel: "icon", type: "image/png", href: "/love.png" }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
