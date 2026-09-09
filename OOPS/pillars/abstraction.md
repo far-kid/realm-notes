@@ -1,0 +1,3 @@
+# Abstraction
+
+- Implementation hiding.
